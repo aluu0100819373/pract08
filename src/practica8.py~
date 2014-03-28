@@ -12,4 +12,4 @@ else:
   n= int(sys.argv[2])
   k= int(sys.argv[1])
   umbral=int(sys.argv[3])
-print moduloerror (n, k, umbral)
+print error (n, k, umbral)

@@ -21,6 +21,6 @@ if __name__=="__main__":
     n= int(sys.argv[1])
     k= int(sys.argv[k])
     u= float(sys.argv[3])
- print error(n,k,u)
+  print error(n,k,u)
   
   
